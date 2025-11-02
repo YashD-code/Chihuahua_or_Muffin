@@ -1,6 +1,9 @@
 Hello this is Yash Vilas Deshmukh CSE student from India.
+
 Gmail: yashdeshmukh294@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/yash-v-deshmukh-3778762a2/
+
 I created this project out of curiosity and fun along with learning.
 I have used MobileNetV2 model from tensorflow library for binary classification.
 The dataset mainly has three image folder train,test and validate which further has subfolders chihuahua and muffin.
