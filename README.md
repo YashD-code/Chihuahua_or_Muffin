@@ -7,6 +7,7 @@ The dataset mainly has three image folder train,test and validate which further 
 It is a labelled dataset so no need to worry for splitting each image.
 Dataset was taken from https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification .
 Big thumbs up to the creator.
+
 ##TO RUN
 1. Download the folder and open.
 2. First things first in cmd or terminal run :- pip install -r requirements.txt
